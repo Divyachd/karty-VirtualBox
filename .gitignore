@@ -1,0 +1,7 @@
+#Ignore backup files
+*.bak
+#Ignore org files
+*.org
+#Ignore class files
+*.class
+
