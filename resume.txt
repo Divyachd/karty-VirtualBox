@@ -1,2 +1,4 @@
 user: devops
 email: devops@mycompany.com
+phone: 123456
+
