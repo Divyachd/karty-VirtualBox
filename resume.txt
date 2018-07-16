@@ -1,4 +1,4 @@
 user: devops
-email: devops@mycompany.com
+email: amazon@mycompany.com
 phone: 123456
 
