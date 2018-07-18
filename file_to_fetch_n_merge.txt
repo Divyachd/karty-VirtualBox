@@ -1,0 +1,3 @@
+This file will get downloaded in 2 steps :
+git fetch (download the files to remote area)
+git merge (merge the files from remote area to local branch)
